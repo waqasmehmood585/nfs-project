@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite  name="Smoke Test Cases" parallel="tests">
+    <suite-files>
+        <!-- Add Suite Paths to Run Multi Suite Files-->
+        <!-- <suite-file path="suiteFiles/SmokeTest.xml"></suite-file> Example-->
+        <suite-file path="suiteFiles/WalmartNUAT.xml"></suite-file>
+        <suite-file path="suiteFiles/Pfizer.xml"></suite-file>
+		<suite-file path="suiteFiles/Waters.xml"></suite-file>	
+		<suite-file path="suiteFiles/Provision.xml"></suite-file>
+		<suite-file path="suiteFiles/LessorAccounting.xml"></suite-file>
+		<suite-file path="suiteFiles/WalmartSouthAfrica.xml"></suite-file>
+		<suite-file path="suiteFiles/WalmartPreUpgrade.xml"></suite-file>
+		<suite-file path="suiteFiles/UF-CLP.xml"></suite-file>
+		<suite-file path="suiteFiles/6-CustomerBug.xml"></suite-file>
+        <suite-file path="suiteFiles/Xray.xml"></suite-file>
+        <suite-file path="suiteFiles/Coverage.xml"></suite-file>
+        <suite-file path="suiteFiles/SapSyncBot.xml"></suite-file>
+        <suite-file path="suiteFiles/XrayDisconnected.xml"></suite-file>
+        <suite-file path="suiteFiles/CustomerBugDisconnected.xml"></suite-file>
+       
+     </suite-files>
+ </suite> <!-- Suite -->

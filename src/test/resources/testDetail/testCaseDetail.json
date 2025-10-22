@@ -1,0 +1,3950 @@
+{
+  "TC-01": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-01",
+    "Jira_ID": "NFS-8897",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-02": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-02",
+    "Jira_ID": "NFS-8898",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-03": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-03",
+    "Jira_ID": "NFS-8899",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-04": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-04",
+    "Jira_ID": "NFS-8901",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-05": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-05",
+    "Jira_ID": "NFS-8903",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-06": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-06",
+    "Jira_ID": "NFS-8905",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-07": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-07",
+    "Jira_ID": "NFS-8906",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-08": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-08",
+    "Jira_ID": "NFS-8908",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-09": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-09",
+    "Jira_ID": "NFS-8909",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-10": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-10",
+    "Jira_ID": "NFS-8910",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-104": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-104",
+    "Jira_ID": "NFS-16783",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R3"
+  },
+  "TC-105": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-105",
+    "Jira_ID": "NFS-16784",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R3"
+  },
+  "TC-106": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-106",
+    "Jira_ID": "NFS-6720",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "TC-107": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-107",
+    "Jira_ID": "NFS-6717",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "TC-108": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-108",
+    "Jira_ID": "NFS-14251",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-109": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-109",
+    "Jira_ID": "NFS-14250",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-11": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-11",
+    "Jira_ID": "NFS-8913",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-110": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-110",
+    "Jira_ID": "NFS-14252",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-113": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-113",
+    "Jira_ID": "NFS-2104",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-114": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-114",
+    "Jira_ID": "NFS-2101",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-115": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-115",
+    "Jira_ID": "NFS-2080",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-116": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-116",
+    "Jira_ID": "NFS-9590",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "TC-117": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-117",
+    "Jira_ID": "NFS-2084",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-118": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-118",
+    "Jira_ID": "NFS-6597",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-119": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-119",
+    "Jira_ID": "NFS-2906",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "TC-12": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-12",
+    "Jira_ID": "NFS-8914",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-120": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-120",
+    "Jira_ID": "NFS-6682",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "TC-121": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-121",
+    "Jira_ID": "NFS-14355",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-122": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-122",
+    "Jira_ID": "NFS-14356",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-125": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-125",
+    "Jira_ID": "NFS-15005",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-126": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-126",
+    "Jira_ID": "NFS-15585",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-127": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-127",
+    "Jira_ID": "NFS-15586",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-129": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-129",
+    "Jira_ID": "NFS-15208",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-13": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-13",
+    "Jira_ID": "NFS-8916",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-131": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-131",
+    "Jira_ID": "NFS-15209",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-132": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-132",
+    "Jira_ID": "NFS-15210",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-133": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-133",
+    "Jira_ID": "NFS-11940",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-134": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-134",
+    "Jira_ID": "NFS-15211",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-135": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-135",
+    "Jira_ID": "NFS-2783",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-136": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-136",
+    "Jira_ID": "NFS-15588",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-137": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-137",
+    "Jira_ID": "NFS-15184",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-138": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-138",
+    "Jira_ID": "NFS-15185",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-139": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-139",
+    "Jira_ID": "NFS-15186",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-14": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-14",
+    "Jira_ID": "NFS-8917",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-140": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-140",
+    "Jira_ID": "NFS-15187",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-148": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-148",
+    "Jira_ID": "NFS-15212",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-42": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-42",
+    "Jira_ID": "NFS-15183",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-123": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-123",
+    "Jira_ID": "NFS-17109",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R2"
+  },
+  "TC-15": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-15",
+    "Jira_ID": "NFS-8919",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-151": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-151",
+    "Jira_ID": "NFS-15216",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-152": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-152",
+    "Jira_ID": "NFS-15234",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-153": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-153",
+    "Jira_ID": "NFS-15235",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-154": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-154",
+    "Jira_ID": "NFS-15236",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-155": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-155",
+    "Jira_ID": "NFS-15237",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-156": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-156",
+    "Jira_ID": "NFS-15238",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-157": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-157",
+    "Jira_ID": "NFS-15239",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-158": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-158",
+    "Jira_ID": "NFS-15240",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-16": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-16",
+    "Jira_ID": "NFS-15207",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-160": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-160",
+    "Jira_ID": "NFS-15243",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-169": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-169",
+    "Jira_ID": "NFS-15148",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-17": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-17",
+    "Jira_ID": "NFS-8921",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-177": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-177",
+    "Jira_ID": "NFS-16262",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R2"
+  },
+  "TC-178": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-178",
+    "Jira_ID": "NFS-16263",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R2"
+  },
+  "TC-18": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-18",
+    "Jira_ID": "NFS-8922",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-19": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-19",
+    "Jira_ID": "NFS-8923",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-20": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-20",
+    "Jira_ID": "NFS-8924",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-21": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-21",
+    "Jira_ID": "NFS-8925",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-22": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-22",
+    "Jira_ID": "NFS-8926",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-23": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-23",
+    "Jira_ID": "NFS-8928",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-24": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-24",
+    "Jira_ID": "NFS-8929",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-25": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-25",
+    "Jira_ID": "NFS-8930",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-26": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-26",
+    "Jira_ID": "NFS-8931",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-27": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-27",
+    "Jira_ID": "NFS-8932",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-28": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-28",
+    "Jira_ID": "NFS-8934",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-29": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-29",
+    "Jira_ID": "NFS-8936",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-30": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-30",
+    "Jira_ID": "NFS-8937",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-31": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-31",
+    "Jira_ID": "NFS-8938",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-32": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-32",
+    "Jira_ID": "NFS-8939",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-33": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-33",
+    "Jira_ID": "NFS-8940",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-34": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-34",
+    "Jira_ID": "NFS-8941",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-35": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-35",
+    "Jira_ID": "NFS-8942",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-36": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-36",
+    "Jira_ID": "NFS-3336",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-37": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-37",
+    "Jira_ID": "NFS-2762",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-38": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-38",
+    "Jira_ID": "NFS-6881",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-39": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-39",
+    "Jira_ID": "NFS-6640",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-40": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-40",
+    "Jira_ID": "NFS-6572",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-41": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-41",
+    "Jira_ID": "NFS-10978",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-43": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-43",
+    "Jira_ID": "NFS-4819",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-44": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-44",
+    "Jira_ID": "NFS-3265",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-45": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-45",
+    "Jira_ID": "NFS-9572",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-46": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-46",
+    "Jira_ID": "NFS-9573",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-47": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-47",
+    "Jira_ID": "NFS-9574",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-48": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-48",
+    "Jira_ID": "NFS-9576",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-49": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-49",
+    "Jira_ID": "NFS-9577",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-50": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-50",
+    "Jira_ID": "NFS-9578",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-51": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-51",
+    "Jira_ID": "NFS-2834",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-52": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-52",
+    "Jira_ID": "NFS-9992",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-53": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-53",
+    "Jira_ID": "NFS-5187",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-54": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-54",
+    "Jira_ID": "NFS-9993",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-55": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-55",
+    "Jira_ID": "NFS-7258",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-56": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-56",
+    "Jira_ID": "NFS-10162",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-58": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-58",
+    "Jira_ID": "NFS-9995",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-59": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-59",
+    "Jira_ID": "NFS-10166",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-61": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-61",
+    "Jira_ID": "NFS-7266",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-62": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-62",
+    "Jira_ID": "NFS-2652",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-63": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-63",
+    "Jira_ID": "NFS-10062",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-65": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-65",
+    "Jira_ID": "NFS-11000",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-66": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-66",
+    "Jira_ID": "NFS-11001",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-67": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-67",
+    "Jira_ID": "NFS-11002",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-68": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-68",
+    "Jira_ID": "NFS-10176",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-69": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-69",
+    "Jira_ID": "NFS-11003",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-70": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-70",
+    "Jira_ID": "NFS-10976",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-71": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-71",
+    "Jira_ID": "NFS-11401",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-72": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-72",
+    "Jira_ID": "NFS-4976",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-73": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-73",
+    "Jira_ID": "NFS-4818",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-74": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-74",
+    "Jira_ID": "NFS-14342",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-75": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-75",
+    "Jira_ID": "NFS-10438",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-76": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-76",
+    "Jira_ID": "NFS-10439",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-77": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-77",
+    "Jira_ID": "NFS-10440",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-78": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-78",
+    "Jira_ID": "NFS-11863",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-79": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-79",
+    "Jira_ID": "NFS-14350",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-80": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-80",
+    "Jira_ID": "NFS-5651",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-81": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-81",
+    "Jira_ID": "NFS-11865",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-82": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-82",
+    "Jira_ID": "NFS-14351",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-83": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-83",
+    "Jira_ID": "NFS-14352",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-84": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-84",
+    "Jira_ID": "NFS-2820",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-87": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-87",
+    "Jira_ID": "NFS-14354",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-90": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-90",
+    "Jira_ID": "NFS-11184",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-91": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-91",
+    "Jira_ID": "NFS-6773",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-92": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-92",
+    "Jira_ID": "NFS-11402",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-93": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-93",
+    "Jira_ID": "NFS-11516",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-94": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-94",
+    "Jira_ID": "NFS-11517",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-96": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-96",
+    "Jira_ID": "NFS-6770",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-97": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-97",
+    "Jira_ID": "NFS-14253",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "TC-193": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-193",
+    "Jira_ID": "NFS-16687",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R3"
+  },
+  "TC-194": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-194",
+    "Jira_ID": "NFS-16688",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R3"
+  },
+  "TC-LSR-01": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-01",
+    "Jira_ID": "NFS-15662",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-02": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-02",
+    "Jira_ID": "NFS-15663",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-03": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-03",
+    "Jira_ID": "NFS-15664",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-04": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-04",
+    "Jira_ID": "NFS-15665",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-05": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-05",
+    "Jira_ID": "NFS-15666",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-06": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-06",
+    "Jira_ID": "NFS-15667",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-07": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-07",
+    "Jira_ID": "NFS-15668",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-08": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-08",
+    "Jira_ID": "NFS-15669",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-09": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-09",
+    "Jira_ID": "NFS-15670",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-10": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-10",
+    "Jira_ID": "NFS-15671",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-11": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-11",
+    "Jira_ID": "NFS-15672",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-12": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-12",
+    "Jira_ID": "NFS-15673",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-16": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-16",
+    "Jira_ID": "NFS-15675",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "TC-LSR-17": {
+    "TC_Title": "Verify Schedules for Accounting Test Case LSR-17",
+    "Jira_ID": "NFS-15865",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "SmokeTC001": {
+    "TC_Title": "SmokeTC001 - Product TC 1 & 2",
+    "Jira_ID": "NFS-10817",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC002": {
+    "TC_Title": "SmokeTC002 - Contract Event (With GVI)",
+    "Jira_ID": "NFS-10857",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC003": {
+    "TC_Title": "SmokeTC003 - Contract Event (Without GVI)",
+    "Jira_ID": "NFS-11094",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC004": {
+    "TC_Title": "SmokeTC004 - Perform multiple AG Events, then close AG using Termination Option",
+    "Jira_ID": "NFS-10859",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC005": {
+    "TC_Title": "SmokeTC005 - Perform Sap External postings (Simple With GVI)",
+    "Jira_ID": "NFS-2086",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC006": {
+    "TC_Title": "SmokeTC006 - Periodic Posting Status Report (IAS & GAAP)",
+    "Jira_ID": "NFS-10862",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC007": {
+    "TC_Title": "SmokeTC007 - NFS Mass Export (Contract)",
+    "Jira_ID": "NFS-8035",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC008": {
+    "TC_Title": "SmokeTC008 - Create GL Balance Report Profile & Job (IAS & GAAP Standard)",
+    "Jira_ID": "NFS-10864",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC009": {
+    "TC_Title": "SmokeTC009 - Validating workflows for MLA, Contract, Lease component and AG at inception level",
+    "Jira_ID": "NFS-10865",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC010": {
+    "TC_Title": "SmokeTC010 - Mass Modification - Create Mass Modification Profile & Job",
+    "Jira_ID": "NFS-10866",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC011": {
+    "TC_Title": "SmokeTC011 - NFS Mass Export (Lease Component)",
+    "Jira_ID": "NFS-8015",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC012": {
+    "TC_Title": "SmokeTC012 - Validating workflows for Contract, Lease component and AG at event level",
+    "Jira_ID": "NFS-10868",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC013": {
+    "TC_Title": "SmokeTC013 - Create CPI Local Mass Indexation Profile & Job (Lease & Non-Lease)",
+    "Jira_ID": "NFS-10869",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC014": {
+    "TC_Title": "SmokeTC014 - All Scheduler jobs",
+    "Jira_ID": "NFS-10870",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC015": {
+    "TC_Title": "SmokeTC015 - Perform Mass Import Job for Contact",
+    "Jira_ID": "NFS-10876",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC016": {
+    "TC_Title": "SmokeTC016 - Perform Mass Import Job for LC and Charge (Non-GVI)",
+    "Jira_ID": "NFS-10877",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC017": {
+    "TC_Title": "SmokeTC017 - Perform Activity Analysis Report Job with Profile (IAS & GAAP)",
+    "Jira_ID": "NFS-10878",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC018": {
+    "TC_Title": "SmokeTC018 - Perform Consolidated Transaction Report Job with Profile for (IAS & GAAP)",
+    "Jira_ID": "NFS-10879",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC019": {
+    "TC_Title": "SmokeTC019 - NFS Mass Export (Unit, Charge, Schedules)",
+    "Jira_ID": "NFS-10881",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC020": {
+    "TC_Title": "SmokeTC020 -  DQI AG Report",
+    "Jira_ID": "NFS-13834",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "SmokeTC021": {
+    "TC_Title": "SmokeTC021 - Disclosure Reports for RUB",
+    "Jira_ID": "NFS-6598",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC022": {
+    "TC_Title": "SmokeTC022 - Perform Mass Work Flow Job with Profile",
+    "Jira_ID": "NFS-10886",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC023": {
+    "TC_Title": "SmokeTC023 - Disclosure Reports for CAD",
+    "Jira_ID": "NFS-11084",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC024": {
+    "TC_Title": "SmokeTC024 - NFS Mass Export (Schedules)",
+    "Jira_ID": "NFS-2098",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC025": {
+    "TC_Title": "SmokeTC025 - Perform multiple AG Events, then close AG using Casualty",
+    "Jira_ID": "NFS-10861",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC026": {
+    "TC_Title": "SmokeTC026 - Perform Sap External postings (UFCLP Scenario Without GVI)",
+    "Jira_ID": "NFS-2097",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC027": {
+    "TC_Title": "SmokeTC027 - NFS Mass Export (Unit)",
+    "Jira_ID": "NFS-2096",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC028": {
+    "TC_Title": "SmokeTC028 - Create CPI Global Mass Indexation Profile & Job (Lease & Non-Lease)",
+    "Jira_ID": "NFS-2090",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC029": {
+    "TC_Title": "SmokeTC029 - Contract Expiration Report",
+    "Jira_ID": "NFS-14008",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC031": {
+    "TC_Title": "SmokeTC031 - Scheduler jobs for SAP Posting bot.",
+    "Jira_ID": "NFS-2083",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC032": {
+    "TC_Title": "SmokeTC032 - Perform Mass Work Flow Job with Profile (CPI-Global Scenario)",
+    "Jira_ID": "NFS-2705",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC033": {
+    "TC_Title": "SmokeTC033 - NFS Mass Export (Charge)",
+    "Jira_ID": "NFS-8014",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC034": {
+    "TC_Title": "SmokeTC034 - Disclosure Reports for EUR",
+    "Jira_ID": "NFS-2091",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC035": {
+    "TC_Title": "SmokeTC035 - Perform Mass Import Job for LC #Contract (Provisioning & GVI) #LC (Multiple LC, Straight-Line,Periodic)",
+    "Jira_ID": "NFS-7981",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC036": {
+    "TC_Title": "SmokeTC036 - Verify user can revert AG at event and inception level.",
+    "Jira_ID": "NFS-11119",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC037": {
+    "TC_Title": "SmokeTC037 - NFS Export (MLA Export from Landing Page)",
+    "Jira_ID": "NFS-2132",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC038": {
+    "TC_Title": "SmokeTC038 - NFS Export (Contract Export from Landing Page)",
+    "Jira_ID": "NFS-7793",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC039": {
+    "TC_Title": "SmokeTC039 - Perform Mass Import Job for Lessor",
+    "Jira_ID": "NFS-7983",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "SmokeTC040": {
+    "TC_Title": "SmokeTC040 - NFS Export (Activation Group Export from Landing Page)",
+    "Jira_ID": "NFS-8104",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC041": {
+    "TC_Title": "SmokeTC041 - NFS Export (Unit Export from Landing Page)",
+    "Jira_ID": "NFS-8103",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC042": {
+    "TC_Title": "SmokeTC042 - Perform Sap External postings (Simple Without GVI)",
+    "Jira_ID": "NFS-10863",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC043": {
+    "TC_Title": "SmokeTC043 - NFS Mass Export (Master Agreement)",
+    "Jira_ID": "NFS-8034",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC044": {
+    "TC_Title": "SmokeTC044 - NFS Mass Export (Contact)",
+    "Jira_ID": "NFS-8033",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC045": {
+    "TC_Title": "SmokeTC045 - NFS Analytics (Search Bar)",
+    "Jira_ID": "NFS-10900",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC046": {
+    "TC_Title": "SmokeTC046 - Disclosure Reports for USD",
+    "Jira_ID": "NFS-2075",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC047": {
+    "TC_Title": "SmokeTC047 - Perform Mass Import Job for Master Agreement",
+    "Jira_ID": "NFS-8013",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC048": {
+    "TC_Title": "SmokeTC048 - Verify Lessor Work Flow, Posting and Schedules",
+    "Jira_ID": "NFS-11095",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "SmokeTC049": {
+    "TC_Title": "SmokeTC049 - Perform Mass Import Job for LC (Multiple Terms With GVI)",
+    "Jira_ID": "NFS-7982",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC050": {
+    "TC_Title": "SmokeTC050 - Disclosure Reports for GBP",
+    "Jira_ID": "NFS-2081",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC051": {
+    "TC_Title": "SmokeTC051 - Perform Mass Import Job for LC (Non GVI)",
+    "Jira_ID": "NFS-7979",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC052": {
+    "TC_Title": "SmokeTC052 - Perform Sap External postings (UFCLP Scenario With GVI)",
+    "Jira_ID": "NFS-2077",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC053": {
+    "TC_Title": "SmokeTC053 - NFS Mass Export (Activation Group)",
+    "Jira_ID": "NFS-2074",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC054": {
+    "TC_Title": "SmokeTC054 - Verify Activation Group Split",
+    "Jira_ID": "NFS-11920",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC055": {
+    "TC_Title": "SmokeTC055 - UF-CLP Scenario",
+    "Jira_ID": "NFS-10883",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC056": {
+    "TC_Title": "SmokeTC056 - NFS Export (Lease Component Export from Landing Page)",
+    "Jira_ID": "NFS-8105",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC057": {
+    "TC_Title": "SmokeTC057 - Verify Cash Flow Report Columns are Correctly mapped for Inception and with Multiple events",
+    "Jira_ID": "NFS-14051",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "SmokeTC058": {
+    "TC_Title": "SmokeTC058 - Verify Income Statement Report with Impairment Loss and Gain Events",
+    "Jira_ID": "NFS-13759",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "SmokeTC059": {
+    "TC_Title": "SmokeTC059 - Verify Balance Sheet Report with Impairment Loss and Gain Events",
+    "Jira_ID": "NFS-13787",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-11332": {
+    "TC_Title": "Mid Month Indexation when amount frequency Annually and payment frequency Monthly",
+    "Jira_ID": "NFS-11332",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11333": {
+    "TC_Title": "Mid Month Indexation when amount frequency Monthly and payment frequency Monthly",
+    "Jira_ID": "NFS-11333",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11337": {
+    "TC_Title": "Mid Month Indexation amount frequency daily,payment frequency Monthly with -ve amount",
+    "Jira_ID": "NFS-11337",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11404": {
+    "TC_Title": "Mid Month Indexation when amount frequency daily and payment frequency Monthly",
+    "Jira_ID": "NFS-11404",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11405": {
+    "TC_Title": "Mid Month Indexation when amount frequency daily and payment frequency Bi-Monthly",
+    "Jira_ID": "NFS-11405",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11406": {
+    "TC_Title": "Mid Month Indexation when amount frequency daily and payment frequency Quarterly",
+    "Jira_ID": "NFS-11406",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11408": {
+    "TC_Title": "Mid Month Indexation when amount frequency daily and payment frequency Semi-annually",
+    "Jira_ID": "NFS-11408",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11409": {
+    "TC_Title": "Mid Month Indexation when amount frequency daily and payment frequency annually",
+    "Jira_ID": "NFS-11409",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-12055": {
+    "TC_Title": "Mid Month Indexation amount frequency and payment frequency Monthly with escalating rent",
+    "Jira_ID": "NFS-12055",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-13899": {
+    "TC_Title": "NLA:Verify Schedule Jobs Run for From Date (Activation Groups ROU Start Date) with To Date (Job Execution Date and Period End Date)",
+    "Jira_ID": "NFS-13899",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13901": {
+    "TC_Title": "Verify that user should be able to perform mass workflow job for MLA",
+    "Jira_ID": "NFS-13901",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13925": {
+    "TC_Title": "Verify that Schedule Jobs Run for From Date (Period Start Date) with To Date (Job Execution Date and Period End Date)",
+    "Jira_ID": "NFS-13925",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13974": {
+    "TC_Title": "Verify user can Transit Unit status by using Mass Workflow",
+    "Jira_ID": "NFS-13974",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-14043": {
+    "TC_Title": "Verify that Schedular picks Multiple Postings of AG within same Month Correctly",
+    "Jira_ID": "NFS-14043",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-14047": {
+    "TC_Title": "NLA:Verify if  profile is selected then Schedular should pick all the related AGs",
+    "Jira_ID": "NFS-14047",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-2595": {
+    "TC_Title": "Mid Month Indexation when amount frequency annually and payment frequency Semi-annually",
+    "Jira_ID": "NFS-2595",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2596": {
+    "TC_Title": "Mid Month Indexation when amount frequency monthly and payment frequency Semi-annually",
+    "Jira_ID": "NFS-2596",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2598": {
+    "TC_Title": "Mid Month Indexation when amount frequency annually and payment frequency Quarterly",
+    "Jira_ID": "NFS-2598",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2599": {
+    "TC_Title": "Mid Month Indexation when amount frequency Monthly and payment frequency Quarterly",
+    "Jira_ID": "NFS-2599",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2603": {
+    "TC_Title": "Mid Month Indexation when amount frequency Annually and payment frequency Bi-Monthly",
+    "Jira_ID": "NFS-2603",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6595": {
+    "TC_Title": "Verify that user is able to create a Custom Dashboard and it is visible in Hamburger menu",
+    "Jira_ID": "NFS-6595",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6662": {
+    "TC_Title": "Mid Month Indexation wen amount frequency annually and payment frequency annually",
+    "Jira_ID": "NFS-6662",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6664": {
+    "TC_Title": "Mid Month Indexation when amount frequency monthly and payment frequency annually",
+    "Jira_ID": "NFS-6664",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6875": {
+    "TC_Title": "Verify Users should be allowed to select the effective date of indexation",
+    "Jira_ID": "NFS-6875",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7298": {
+    "TC_Title": "Validate downloaded Periodic posting status report showing correct data",
+    "Jira_ID": "NFS-7298",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7768": {
+    "TC_Title": "Verify that add button should be disable if mandatory field data is missing in PPSR Job",
+    "Jira_ID": "NFS-7768",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8122": {
+    "TC_Title": "Verify that user is able to create Schedule Job for Disclosure Report Hourly/Monthly/Weekly/Daily",
+    "Jira_ID": "NFS-8122",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8124": {
+    "TC_Title": "Verify that user is able to enable/disable and Delete Schedule Job",
+    "Jira_ID": "NFS-8124",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8137": {
+    "TC_Title": "Verify that user is able to edit GL Balance schedule report job",
+    "Jira_ID": "NFS-8137",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8138": {
+    "TC_Title": "Verify that user is able to edit Schedule Job",
+    "Jira_ID": "NFS-8138",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8212": {
+    "TC_Title": "Verify that all the related columns are showing correct data in the respective field.",
+    "Jira_ID": "NFS-8212",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-01": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-01",
+    "Jira_ID": "NFS-11890",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-03": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-03",
+    "Jira_ID": "NFS-11902",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-04": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-04",
+    "Jira_ID": "NFS-11903",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-05LV": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-05 - (Low Value)",
+    "Jira_ID": "NFS-11904",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-05ST": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-05 - (SHORT TERM)",
+    "Jira_ID": "NFS-2606",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-06": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-06",
+    "Jira_ID": "NFS-11908",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-07": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-07",
+    "Jira_ID": "NFS-11909",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-08": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-08",
+    "Jira_ID": "NFS-11912",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-09": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-09",
+    "Jira_ID": "NFS-11913",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-10": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-10",
+    "Jira_ID": "NFS-11914",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-11": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-11",
+    "Jira_ID": "NFS-11915",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-12": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-12",
+    "Jira_ID": "NFS-11916",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-13": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-13",
+    "Jira_ID": "NFS-11917",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-14": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-14",
+    "Jira_ID": "NFS-11918",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-16": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-16",
+    "Jira_ID": "NFS-11928",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-17": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-17",
+    "Jira_ID": "NFS-11929",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-18": {
+    "TC_Title": "Verify Schedules of Provisioning Scenario-18",
+    "Jira_ID": "NFS-11930",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "SmokeTC030": {
+    "TC_Title": "SmokeTC030 - Mass Inter company Transfer - Running Mass Inter company Transfer Jobs.",
+    "Jira_ID": "NFS-16825",
+    "TC_Category": "Smoke",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R3"
+  },
+  "TC-16-FeatureNotSupported": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-16",
+    "Jira_ID": "NFS-8920",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-57": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-57",
+    "Jira_ID": "NFS-7261",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-60": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-60",
+    "Jira_ID": "NFS-7257",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-64": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-64",
+    "Jira_ID": "NFS-2653",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-85": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-85",
+    "Jira_ID": "NFS-4941",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-86-Obsolete": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-86",
+    "Jira_ID": "NFS-4942",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-88": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-88",
+    "Jira_ID": "NFS-11330",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-89": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-89",
+    "Jira_ID": "NFS-6779",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-LR-01": {
+    "TC_Title": "",
+    "Jira_ID": "",
+    "TC_Category": "Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "None"
+  },
+  "TC-LR-02": {
+    "TC_Title": "",
+    "Jira_ID": "",
+    "TC_Category": "Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "None"
+  },
+  "TC-LR-03": {
+    "TC_Title": "",
+    "Jira_ID": "",
+    "TC_Category": "Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "None"
+  },
+  "TC-LR-04": {
+    "TC_Title": "Verify Lessor Work Flow, Posting and Schedules",
+    "Jira_ID": "NFS-3072",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "walmartNUAT",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-01": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-01",
+    "Jira_ID": "NFS-8460",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-02": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-02",
+    "Jira_ID": "NFS-12450",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-03": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-03",
+    "Jira_ID": "NFS-12451",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-04": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-04",
+    "Jira_ID": "NFS-12452",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-05": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-05",
+    "Jira_ID": "NFS-8466",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-06": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-06",
+    "Jira_ID": "NFS-12453",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-07": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-07",
+    "Jira_ID": "NFS-12454",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-08": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-08",
+    "Jira_ID": "NFS-8467",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-09": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-09",
+    "Jira_ID": "NFS-12456",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-10": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-10",
+    "Jira_ID": "NFS-12457",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-11": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-11",
+    "Jira_ID": "NFS-12458",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-12": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-12",
+    "Jira_ID": "NFS-12459",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-13": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-13",
+    "Jira_ID": "NFS-12460",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-14": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-14",
+    "Jira_ID": "NFS-12461",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-15": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-15",
+    "Jira_ID": "NFS-8468",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-16": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-16",
+    "Jira_ID": "NFS-12462",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-17": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-17",
+    "Jira_ID": "NFS-12463",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-18": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-18",
+    "Jira_ID": "NFS-12464",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-19": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-19",
+    "Jira_ID": "NFS-12465",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-20": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-20",
+    "Jira_ID": "NFS-8469",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-PF-22": {
+    "TC_Title": "Verify Schedules for Accounting Test Case PF-22",
+    "Jira_ID": "NFS-14359",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "pfizer",
+    "TC_FixVersion": "Nakisa 2024.R2"
+  },
+  "NFS-11888": {
+    "TC_Title": "Block the user while adding the casualty",
+    "Jira_ID": "NFS-11888",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "TEConnectivity",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-12455": {
+    "TC_Title": "AG goes to Pending Termination state at Inception (PO Scenario)",
+    "Jira_ID": "NFS-12455",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2133": {
+    "TC_Title": "Error in creating multiple AG's",
+    "Jira_ID": "NFS-2133",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2135": {
+    "TC_Title": "Internal Posting Failure due to an unexpected error",
+    "Jira_ID": "NFS-2135",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2138": {
+    "TC_Title": "Schedule export failing for Walmart",
+    "Jira_ID": "NFS-2138",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2139": {
+    "TC_Title": "Provisioning Posting requirements with indexed case",
+    "Jira_ID": "NFS-2139",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2155": {
+    "TC_Title": "AG goes to Pending Termination state after Casualty",
+    "Jira_ID": "NFS-2155",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2158": {
+    "TC_Title": "Incorrect posting and document dates at Indexation",
+    "Jira_ID": "NFS-2158",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2159": {
+    "TC_Title": "LC is blocked when user did increase/decrease term",
+    "Jira_ID": "NFS-2159",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2165": {
+    "TC_Title": "Mass Indexation is not getting picked for Finance Lease",
+    "Jira_ID": "NFS-2165",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2219": {
+    "TC_Title": "Schedules are incorrect after AG closure (Casualty Scenario)",
+    "Jira_ID": "NFS-2219",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2220": {
+    "TC_Title": "Schedules are incorrect after AG closure (Inception Scenario)",
+    "Jira_ID": "NFS-2220",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2457": {
+    "TC_Title": "ROU Adjustment and Posted ROU Adjustment is wrong",
+    "Jira_ID": "NFS-2457",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2646": {
+    "TC_Title": "Provisioning Posting requirements with Indexed case",
+    "Jira_ID": "NFS-2646",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2654": {
+    "TC_Title": "Performance: LC and AG approval and Activation occasionally stuck",
+    "Jira_ID": "NFS-2654",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2695": {
+    "TC_Title": "Schedules take time to load",
+    "Jira_ID": "NFS-2695",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2696": {
+    "TC_Title": "AG is failing to activate",
+    "Jira_ID": "NFS-2696",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "TEConnectivity",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2706": {
+    "TC_Title": "Inconsistent behavior of contract rate",
+    "Jira_ID": "NFS-2706",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2738": {
+    "TC_Title": "Inception documents are incorrect with Carryover balances",
+    "Jira_ID": "NFS-2738",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2867": {
+    "TC_Title": "Negative Index Non-lease payment column is not showing on the schedule",
+    "Jira_ID": "NFS-2867",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-3223": {
+    "TC_Title": "Users can't post the last accrual and therefore can't \"Lease End\" the AG",
+    "Jira_ID": "NFS-3223",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-3335": {
+    "TC_Title": "Disclosure reports failing",
+    "Jira_ID": "NFS-3335",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5000": {
+    "TC_Title": "NLA: Access Denied error message is shown when user click on Cancel workflow transition button",
+    "Jira_ID": "NFS-5000",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "TEConnectivity",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5653": {
+    "TC_Title": "Rounding curr adj issue during Casualty",
+    "Jira_ID": "NFS-5653",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Pfizer",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6590": {
+    "TC_Title": "Free rent not working properly",
+    "Jira_ID": "NFS-6590",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6803": {
+    "TC_Title": "Revert not working on FairPrice PROD Instance",
+    "Jira_ID": "NFS-6803",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6845": {
+    "TC_Title": "Bad Validation in CTR Jobs",
+    "Jira_ID": "NFS-6845",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6907": {
+    "TC_Title": "AG goes to Pending Termination state at Inception (TO Scenario)",
+    "Jira_ID": "NFS-6907",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7259": {
+    "TC_Title": "CPI Index values differ on the same date in two AGs",
+    "Jira_ID": "NFS-7259",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Walmart",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8719": {
+    "TC_Title": "The AG activation shows Schedule Generation Failure (360 convention)",
+    "Jira_ID": "NFS-8719",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "TEConnectivity",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8722": {
+    "TC_Title": "AG activation shows Schedule Generation Failure(Regular Calendar)",
+    "Jira_ID": "NFS-8722",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "TEConnectivity",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8727": {
+    "TC_Title": "Contract with Carry-over balances contains wrong entries for asset",
+    "Jira_ID": "NFS-8727",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "TEConnectivity",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9543": {
+    "TC_Title": "Schedules generation is failed after adding free-rent",
+    "Jira_ID": "NFS-9543",
+    "TC_Category": "CustomerBug",
+    "TC_Customers": "Waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-02": {
+    "TC_Title": "Verify the impact of provisioning classification on schedules: Scenario-02",
+    "Jira_ID": "NFS-11891",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-15": {
+    "TC_Title": "Verify the impact of provisioning classification on schedules: Scenario-15",
+    "Jira_ID": "NFS-11919",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-19": {
+    "TC_Title": "Verify the impact of provisioning classification on schedules: Scenario-19",
+    "Jira_ID": "NFS-11931",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "Provision-20": {
+    "TC_Title": "Verify the impact of provisioning classification on schedules: Scenario-20",
+    "Jira_ID": "NFS-11932",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "Sephora",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-01": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-01",
+    "Jira_ID": "NFS-8472",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-02": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-02",
+    "Jira_ID": "NFS-12481",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-03": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-03",
+    "Jira_ID": "NFS-12482",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-04": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-04",
+    "Jira_ID": "NFS-12483",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-05": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-05",
+    "Jira_ID": "NFS-8473",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-06": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-06",
+    "Jira_ID": "NFS-12484",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-07": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-07",
+    "Jira_ID": "NFS-12485",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-08": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-08",
+    "Jira_ID": "NFS-8474",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-09": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-09",
+    "Jira_ID": "NFS-12486",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-10": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-10",
+    "Jira_ID": "NFS-12487",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-11": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-11",
+    "Jira_ID": "NFS-8475",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-SA-12": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WM-SA-12",
+    "Jira_ID": "NFS-12488",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartSouthAfrica",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-01": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-01",
+    "Jira_ID": "NFS-8519",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-02": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-02",
+    "Jira_ID": "NFS-12489",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-03": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-03",
+    "Jira_ID": "NFS-12490",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-04": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-04",
+    "Jira_ID": "NFS-12491",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-05": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-05",
+    "Jira_ID": "NFS-8520",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-06": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-06",
+    "Jira_ID": "NFS-12492",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-07": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-07",
+    "Jira_ID": "NFS-12493",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-08": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-08",
+    "Jira_ID": "NFS-12494",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-09": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-09",
+    "Jira_ID": "NFS-12495",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-10": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-10",
+    "Jira_ID": "NFS-8521",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-11": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-11",
+    "Jira_ID": "NFS-12497",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-12": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-12",
+    "Jira_ID": "NFS-12498",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-13": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-13",
+    "Jira_ID": "NFS-12499",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-14": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-14",
+    "Jira_ID": "NFS-8522",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-15": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-15",
+    "Jira_ID": "",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-16": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-16",
+    "Jira_ID": "NFS-12503",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-UF-CLP-17": {
+    "TC_Title": "Verify Schedules for Accounting Test Case UF/CLP-17",
+    "Jira_ID": "NFS-12501",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "UF/CLP",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-01": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-01",
+    "Jira_ID": "NFS-12466",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-02": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-02",
+    "Jira_ID": "NFS-8470",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-03": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-03",
+    "Jira_ID": "NFS-12467",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-04": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-04",
+    "Jira_ID": "NFS-12468",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-05": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-05",
+    "Jira_ID": "NFS-12469",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-06": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-06",
+    "Jira_ID": "NFS-12470",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-07": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-07",
+    "Jira_ID": "NFS-12471",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-08": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-08",
+    "Jira_ID": "NFS-12472",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-09": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-09",
+    "Jira_ID": "NFS-8477",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-10": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-10",
+    "Jira_ID": "NFS-12473",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-11": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-11",
+    "Jira_ID": "NFS-12474",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-12": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-12",
+    "Jira_ID": "NFS-12475",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-13": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-13",
+    "Jira_ID": "NFS-8458",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-14": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-14",
+    "Jira_ID": "NFS-12476",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-15": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-15",
+    "Jira_ID": "NFS-12477",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-16": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-16",
+    "Jira_ID": "NFS-8478",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-17": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-17",
+    "Jira_ID": "NFS-12478",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-18": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-18",
+    "Jira_ID": "NFS-12479",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-19": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-19",
+    "Jira_ID": "NFS-12480",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WA-20": {
+    "TC_Title": "Verify Schedules for Accounting Test Case WA-20",
+    "Jira_ID": "NFS-8476",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "waters",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-06": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-06",
+    "Jira_ID": "NFS-12502",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-104": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-104",
+    "Jira_ID": "NFS-12504",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-23-2": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-23-2",
+    "Jira_ID": "NFS-12506",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-23": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-23",
+    "Jira_ID": "NFS-12505",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-38": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-38",
+    "Jira_ID": "NFS-12507",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-50": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-50",
+    "Jira_ID": "NFS-12508",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-77": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-77",
+    "Jira_ID": "NFS-12509",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-WM-86": {
+    "TC_Title": "Verify Schedules for Customer Scenario WM-86",
+    "Jira_ID": "NFS-12510",
+    "TC_Category": "CustomerUAT",
+    "TC_Customers": "walmartPreUpgrade",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10092": {
+    "TC_Title": "AG Split - Verify unit distribution tab is added in LC import",
+    "Jira_ID": "NFS-10092",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10108": {
+    "TC_Title": "Verify that user cannot add cash Incentive term through mass Modification",
+    "Jira_ID": "NFS-10108",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10133": {
+    "TC_Title": "Verify ROU Anniversary scenario is applicable for leap year for all Indexation treatment type.",
+    "Jira_ID": "NFS-10133",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10144": {
+    "TC_Title": "Verify user should be able to split both Lease and Non-Lease Indexations",
+    "Jira_ID": "NFS-10144",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10164": {
+    "TC_Title": "Base rent (monthly) with mid -month payments, free rent, indexation on ROU Anniversary and supplements.",
+    "Jira_ID": "NFS-10164",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10274": {
+    "TC_Title": "Verify user is able to apply UFCLP indexation on non-lease service contracts.",
+    "Jira_ID": "NFS-10274",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-10449": {
+    "TC_Title": "Verify that all COB fields have Values in LC & AG Carry over balances page after import successfully",
+    "Jira_ID": "NFS-10449",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10665": {
+    "TC_Title": "Verify Generate Vendor Invoice Behavior with Multiple Events (Scenario 1)",
+    "Jira_ID": "NFS-10665",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10822": {
+    "TC_Title": "ESS Security Coverage - Visit NFS with a User of a Specific Profile.",
+    "Jira_ID": "NFS-10822",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-10871": {
+    "TC_Title": "Validate GL Balance reports after reversal of postings",
+    "Jira_ID": "NFS-10871",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11103": {
+    "TC_Title": "Verify user can split AG on LC level.",
+    "Jira_ID": "NFS-11103",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11120": {
+    "TC_Title": "Revert AG - Scenario 1 -AG Activation with no Event & no Charges",
+    "Jira_ID": "NFS-11120",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11237": {
+    "TC_Title": "Salvage Value - Verify Salvage value field is added on LC, AG.",
+    "Jira_ID": "NFS-11237",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11302": {
+    "TC_Title": "Verify Periodic Posting Status, Activity Analysis and Disclosure Reports Modifications",
+    "Jira_ID": "NFS-11302",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11407": {
+    "TC_Title": "Verify Indexed currency contracts (UF-CLP) are not affected by conditional indexation.",
+    "Jira_ID": "NFS-11407",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11410": {
+    "TC_Title": "Verify the Applicable Current Index Level is calculated according to the Minimum Percentage Change for CPI Global.",
+    "Jira_ID": "NFS-11410",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11411": {
+    "TC_Title": "Verify the Applicable Current Index Level is calculated according to the Maximum Percentage Change for CPI Global.",
+    "Jira_ID": "NFS-11411",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11412": {
+    "TC_Title": "Salvage Value will not affect schedules if pre-conditions are not met.",
+    "Jira_ID": "NFS-11412",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11413": {
+    "TC_Title": "Verify if depreciation or NBV become negative then schedules should be failed to generate.",
+    "Jira_ID": "NFS-11413",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11415": {
+    "TC_Title": "Salvage Value - Verify AG split with Salvage Value entered at LC level.",
+    "Jira_ID": "NFS-11415",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11417": {
+    "TC_Title": "Salvage value column with UF/CLP indexation.",
+    "Jira_ID": "NFS-11417",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11418": {
+    "TC_Title": "Verify Salvage value field is added on LC, AG.",
+    "Jira_ID": "NFS-11418",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11426": {
+    "TC_Title": "Verify conditional indexation is working as expected for split AGs.",
+    "Jira_ID": "NFS-11426",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11446": {
+    "TC_Title": "Verify user should not be able to create conflicting configs of same level",
+    "Jira_ID": "NFS-11446",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4"
+  },
+  "NFS-11453": {
+    "TC_Title": "Verify if Target fields, Conditional fields are present and it is satisfying the Condition then Default Value is set",
+    "Jira_ID": "NFS-11453",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11466": {
+    "TC_Title": "Verify the searching, Sorting and pagination of the configs",
+    "Jira_ID": "NFS-11466",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4"
+  },
+  "NFS-11529": {
+    "TC_Title": "Verify Consolidated Transaction Report for Service Contract",
+    "Jira_ID": "NFS-11529",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11530": {
+    "TC_Title": "Service Contract - Verify GL Balance Report Modifications.",
+    "Jira_ID": "NFS-11530",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-11568": {
+    "TC_Title": "Verify if user select the Update/Change IBR checkbox while performing event then Contract rate/IBR should be editable",
+    "Jira_ID": "NFS-11568",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11887": {
+    "TC_Title": "Verify that A.A by amount report is showing correct data when user apply Casualty event",
+    "Jira_ID": "NFS-11887",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-12144": {
+    "TC_Title": "Validations for system/confirmed classification in cases of PO/Transfer of ownership/Specialized Asset (Inception)",
+    "Jira_ID": "NFS-12144",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-12197": {
+    "TC_Title": "Validations for system/confirmed classification in cases of PO/Transfer of ownership/Specialized Asset (Event)",
+    "Jira_ID": "NFS-12197",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-12277": {
+    "TC_Title": "Classification as Finance or Operating at AG Event when Lease term over useful life equal or exceed the Classification Percentage Term",
+    "Jira_ID": "NFS-12277",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-12279": {
+    "TC_Title": "Validating Complete flow of Default Fields and the Supported fields with the Conditions.",
+    "Jira_ID": "NFS-12279",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-12285": {
+    "TC_Title": "Verify that user should be able to apply filters and user should be able define inputs to refine the report generation (Code Coverage)",
+    "Jira_ID": "NFS-12285",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-12802": {
+    "TC_Title": "Verify journal voucher details",
+    "Jira_ID": "NFS-12802",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "NFS-13354": {
+    "TC_Title": "Verify the addition and function of COB IBR field at AG Level",
+    "Jira_ID": "NFS-13354",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13356": {
+    "TC_Title": "Verify Optional \"Asset Class\" behavior when Contract is Low Value, Short Term or Non Lease Service",
+    "Jira_ID": "NFS-13356",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13357": {
+    "TC_Title": "Verify Asset Class behavior for (Low Value, Short Term, Non Lease Service Contract) - Import/Export",
+    "Jira_ID": "NFS-13357",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13359": {
+    "TC_Title": "Verify that each financial term has its own Base and Reference Indexation Rates at inception",
+    "Jira_ID": "NFS-13359",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13601": {
+    "TC_Title": "Golden:Verify new closing-AG Popup and Remaining Balances with multiple events",
+    "Jira_ID": "NFS-13601",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13609": {
+    "TC_Title": "Verify Unit Status Updated to \"Returned\" Upon AG Lease End and Closure",
+    "Jira_ID": "NFS-13609",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13610": {
+    "TC_Title": "Verify Unit Status Updated to \"Purchased\" if Purchase Option is Exercised.",
+    "Jira_ID": "NFS-13610",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13611": {
+    "TC_Title": "Verify Unit Status Updated to \"Casualty\" Status in Case of AG Casualty",
+    "Jira_ID": "NFS-13611",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13640": {
+    "TC_Title": "Verify AG Closure and Remaining balances with Short Term Contract",
+    "Jira_ID": "NFS-13640",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13641": {
+    "TC_Title": "Verify AG Closure and Remaining balances with Low Lease Value Contract",
+    "Jira_ID": "NFS-13641",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13642": {
+    "TC_Title": "Verify AG Closure and Remaining balances with Fixed & Variable Lease Contract",
+    "Jira_ID": "NFS-13642",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13643": {
+    "TC_Title": "Verify AG Closure and Remaining balances with Non Lease Service Contract",
+    "Jira_ID": "NFS-13643",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13760": {
+    "TC_Title": "Test Income Statement Report for an AG verify that report is correctly mapped.",
+    "Jira_ID": "NFS-13760",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13761": {
+    "TC_Title": "Test Financial Income Statement Report with Multi Units Selected",
+    "Jira_ID": "NFS-13761",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13762": {
+    "TC_Title": "Test Financial Income Statement Report for Short Term Contract",
+    "Jira_ID": "NFS-13762",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13764": {
+    "TC_Title": "Test Financial Income Statement Report for Low Value Contract",
+    "Jira_ID": "NFS-13764",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13785": {
+    "TC_Title": "Test Balance Sheet Report for Simple Contract",
+    "Jira_ID": "NFS-13785",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "NFS-13786": {
+    "TC_Title": "Test Balance Sheet Report with Multiple Units Selected",
+    "Jira_ID": "NFS-13786",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "NFS-13789": {
+    "TC_Title": "Test Balance Sheet Report for Short Term Contract",
+    "Jira_ID": "NFS-13789",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "NFS-13843": {
+    "TC_Title": "Verify Purchase order and Purchase organization dropdowns are present on AG",
+    "Jira_ID": "NFS-13843",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13860": {
+    "TC_Title": "Verify Purchase order and Purchase organization fields are present in Mass Modification template",
+    "Jira_ID": "NFS-13860",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13863": {
+    "TC_Title": "Verify Purchase order and Purchase organization columns are showing in CTR report",
+    "Jira_ID": "NFS-13863",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13893": {
+    "TC_Title": "Verify Ledger Transaction popup should show the details button and new dialogue should have 3 sections",
+    "Jira_ID": "NFS-13893",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-13949": {
+    "TC_Title": "Golden:Mass workflow (Active->Discard) for Contract, LC & AG",
+    "Jira_ID": "NFS-13949",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-14053": {
+    "TC_Title": "Verify Cash Flow Report for Low Value Contract",
+    "Jira_ID": "NFS-14053",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-14054": {
+    "TC_Title": "Verify Cash Flow Report for Multiple Units under one AG",
+    "Jira_ID": "NFS-14054",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-14055": {
+    "TC_Title": "Verify Cash Flow Report for Short term Lease Contract",
+    "Jira_ID": "NFS-14055",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-14058": {
+    "TC_Title": "Verify Conflicted Default Values Config and Scheduled Job Completion categories are no longer present in Contract and AG Notification Page",
+    "Jira_ID": "NFS-14058",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-14091": {
+    "TC_Title": "Verify that correct number of not selected extensions terms should show with term months and days for AG at inception",
+    "Jira_ID": "NFS-14091",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-14092": {
+    "TC_Title": "Verify that correct number of not selected extensions terms should show with term months and days after lease modification",
+    "Jira_ID": "NFS-14092",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-14093": {
+    "TC_Title": "Verify that correct number of not selected Termination option terms should show with amount and termination date",
+    "Jira_ID": "NFS-14093",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-14094": {
+    "TC_Title": "Verify that correct number of not selected Purchase option terms should show with amount and Purchase date",
+    "Jira_ID": "NFS-14094",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-14097": {
+    "TC_Title": "Verify Financial Income statement Report with Multiple Events Applied",
+    "Jira_ID": "NFS-14097",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-15727": {
+    "TC_Title": "Perform Mass Import Job for Lessor (Multiple Contacts,LC,Charges)",
+    "Jira_ID": "NFS-15727",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "NFS-15980": {
+    "TC_Title": "Verify ERP Field Mapping in NFS for code coverage",
+    "Jira_ID": "NFS-15980",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R1"
+  },
+  "NFS-16150": {
+    "TC_Title": "Verify that User can copy the MLA, Contract and LC",
+    "Jira_ID": "NFS-16150",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R2"
+  },
+  "NFS-2079": {
+    "TC_Title": "Verify that A.A by amount report is showing correct data when user apply PO event.",
+    "Jira_ID": "NFS-2079",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2590": {
+    "TC_Title": "Verify that an extra Payment row in Payment column when Month End is not selected",
+    "Jira_ID": "NFS-2590",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2591": {
+    "TC_Title": "Verify the Number of Payment rows when the Payment frequency is selected as Annually",
+    "Jira_ID": "NFS-2591",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2612": {
+    "TC_Title": "Verify that Lease/Non-lease Payment Amount is correct when user Perform Rent Escalation",
+    "Jira_ID": "NFS-2612",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2614": {
+    "TC_Title": "Verify that Lease Payment is correctly when user Perform Rent Escalation",
+    "Jira_ID": "NFS-2614",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2793": {
+    "TC_Title": "Switch between Events, Delete Draft Revision at LC & AG and Apply Asset Impairment Events",
+    "Jira_ID": "NFS-2793",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-3742": {
+    "TC_Title": "Verify user should be able to do postings with multiple payment terms of different Payment frequencies",
+    "Jira_ID": "NFS-3742",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-3761": {
+    "TC_Title": "Verify user is able to post the accrual after changing the Document and Posting date",
+    "Jira_ID": "NFS-3761",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-3766": {
+    "TC_Title": "Test Posting Inception Activation - posted for all units",
+    "Jira_ID": "NFS-3766",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5175": {
+    "TC_Title": "Code-Coverage - Create MLA with all Mandatory and non-mandatory fields.",
+    "Jira_ID": "NFS-5175",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5177": {
+    "TC_Title": "Verify that user is able to create, edit and delete the Batch Profiles",
+    "Jira_ID": "NFS-5177",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5202": {
+    "TC_Title": "Verify that if Indexation (CPI Local) task has failed items then user will see a Report button",
+    "Jira_ID": "NFS-5202",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5203": {
+    "TC_Title": "Verify that if Indexation (CPI Global) task has failed items then user will see a Report button",
+    "Jira_ID": "NFS-5203",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5218": {
+    "TC_Title": "Verify that user should be able to perform mass indexation on multiple AGs",
+    "Jira_ID": "NFS-5218",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-5266": {
+    "TC_Title": "Verify that users are able to create or cancel jobs under Consolidated Transaction Jobs",
+    "Jira_ID": "NFS-5266",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6518": {
+    "TC_Title": "Verify Termination Journal matches with Asset Part in All Columns when there's Purchase/termination option or casualty in the Terms",
+    "Jira_ID": "NFS-6518",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6531": {
+    "TC_Title": "Verify that Termination Journal matches with the Asset Part in All Columns schedules",
+    "Jira_ID": "NFS-6531",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6548": {
+    "TC_Title": "Verify that the switch is present on the ERP Systems page to test each SAP server",
+    "Jira_ID": "NFS-6548",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4"
+  },
+  "NFS-6560": {
+    "TC_Title": "Verify user should be able to schedule Sync Job",
+    "Jira_ID": "NFS-6560",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4"
+  },
+  "NFS-6675": {
+    "TC_Title": "Verify user is able to post Payment,Accrual,Depreciation,Charges from Posting jobs in Batch management (AG ID)",
+    "Jira_ID": "NFS-6675",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6677": {
+    "TC_Title": "Verify user is able to post Payment,Accrual,Depreciation,Charges from Posting jobs in Batch management (CT ID)",
+    "Jira_ID": "NFS-6677",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6678": {
+    "TC_Title": "Verify user is able to post Payment,Accrual,Depreciation,Charges from Posting jobs in Batch management (MA ID)",
+    "Jira_ID": "NFS-6678",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6688": {
+    "TC_Title": "Verify that user is able to see the Vendor Split Posting in Schedules",
+    "Jira_ID": "NFS-6688",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6698": {
+    "TC_Title": "Verify that user is able to do Vendor Splitting in Terms & Conditions",
+    "Jira_ID": "NFS-6698",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6792": {
+    "TC_Title": "Verify that The escalation rent continues after the LC event and is not reset",
+    "Jira_ID": "NFS-6792",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6799": {
+    "TC_Title": "Verify Import with some unchecked check boxes and Profit Center not a mandatory field",
+    "Jira_ID": "NFS-6799",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6804": {
+    "TC_Title": "Verify that Error Message should be clear if user enter the wrong data in Mandatory Fields of right template",
+    "Jira_ID": "NFS-6804",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-6831": {
+    "TC_Title": "Approver Comment for discard at inception level Scenario",
+    "Jira_ID": "NFS-6831",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6836": {
+    "TC_Title": "Approver Comment at event rework at Event level Scenario",
+    "Jira_ID": "NFS-6836",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6837": {
+    "TC_Title": "Approver Comment at rework at Inception level Scenario",
+    "Jira_ID": "NFS-6837",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6840": {
+    "TC_Title": "Approver Comment at Event level Scenario",
+    "Jira_ID": "NFS-6840",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6842": {
+    "TC_Title": "Verify that User should be able to download Excel Template and it should have correct sheets.",
+    "Jira_ID": "NFS-6842",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6843": {
+    "TC_Title": "Test Balance Sheet Report for Low Value Contract",
+    "Jira_ID": "NFS-6843",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "NFS-6868": {
+    "TC_Title": "Approver Comment at Inception level scenario",
+    "Jira_ID": "NFS-6868",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6871": {
+    "TC_Title": "Verify that correct number of not selected Purchase option terms should show with amount and Purchase date",
+    "Jira_ID": "NFS-6871",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6877": {
+    "TC_Title": "Verify base index during the indexation event should always be the inception index value for first indexation event",
+    "Jira_ID": "NFS-6877",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6882": {
+    "TC_Title": "Verify that correct number of not selected Termination option terms should show with amount and termination date",
+    "Jira_ID": "NFS-6882",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6898": {
+    "TC_Title": "Verify that Posted document on \"Journals\" at AG level,Charges and AG Event has details",
+    "Jira_ID": "NFS-6898",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-6906": {
+    "TC_Title": "Verify that user should be able to copy the terms using the clone feature at LC Event level",
+    "Jira_ID": "NFS-6906",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7130": {
+    "TC_Title": "Verify that Fiscal Year and Fiscal Period details are returned correctly on all the journal entries",
+    "Jira_ID": "NFS-7130",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7132": {
+    "TC_Title": "Verify Fiscal Variant calander for CTR",
+    "Jira_ID": "NFS-7132",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7187": {
+    "TC_Title": "Validate that GL Balance Report is showing correct data after reversing the postings",
+    "Jira_ID": "NFS-7187",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-7333": {
+    "TC_Title": "Verify Schedules Fiscal Variant are generated correctly with Escalating Rent or Override First/Last Payment",
+    "Jira_ID": "NFS-7333",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7335": {
+    "TC_Title": "Verify that Fiscal Year and Fiscal Period details are returned correctly on Charge Journals",
+    "Jira_ID": "NFS-7335",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7444": {
+    "TC_Title": "Verify that that A.A Profile is not getting created when user skips any required field",
+    "Jira_ID": "NFS-7444",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7447": {
+    "TC_Title": "Verify that A.A by amount report when user add any new lease term for both IFRS and GAAP.",
+    "Jira_ID": "NFS-7447",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7448": {
+    "TC_Title": "Verify that A.A by count is showing accurate data when AG is classified not activated.",
+    "Jira_ID": "NFS-7448",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7450": {
+    "TC_Title": "Verify that A.A by amount report is showing correct data when user apply TO event.",
+    "Jira_ID": "NFS-7450",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7452": {
+    "TC_Title": "Verify that A.A by Count report is showing correct data when new term is added and indexation is applied",
+    "Jira_ID": "NFS-7452",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7454": {
+    "TC_Title": "Verify that user is able to generate report for the period of impairment loss and gain event",
+    "Jira_ID": "NFS-7454",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7455": {
+    "TC_Title": "Verify that A.A Job is getting cancelled.",
+    "Jira_ID": "NFS-7455",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7688": {
+    "TC_Title": "Verify Fiscal year and period selection for report Job.",
+    "Jira_ID": "NFS-7688",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7690": {
+    "TC_Title": "Verify that report should be generated for an AG having status state Closed",
+    "Jira_ID": "NFS-7690",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7708": {
+    "TC_Title": "Verify that add button should be disabled if mandatory field data is missing in GL Balance Profile",
+    "Jira_ID": "NFS-7708",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7730": {
+    "TC_Title": "Verify that user is able to cancel jobs under GL Balance Report Jobs",
+    "Jira_ID": "NFS-7730",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7731": {
+    "TC_Title": "Verify that add button should be disabled if mandatory field data is missing",
+    "Jira_ID": "NFS-7731",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7732": {
+    "TC_Title": "Verify that user should be able to generate only Profit and Loss report",
+    "Jira_ID": "NFS-7732",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7733": {
+    "TC_Title": "GL Balance Report-Verify that user should be able to generate only Balance sheet report",
+    "Jira_ID": "NFS-7733",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7753": {
+    "TC_Title": "Test Audit Log feature for MLA, Contract, LC and AG",
+    "Jira_ID": "NFS-7753",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4"
+  },
+  "NFS-7789": {
+    "TC_Title": "Validate AA Report is generated successfully when both mandatory and non-mandaotry fields are filled.",
+    "Jira_ID": "NFS-7789",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7806": {
+    "TC_Title": "Verify that A.A job is not getting created when user skips any required field",
+    "Jira_ID": "NFS-7806",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7858": {
+    "TC_Title": "Verify that GL Balance Report should show correct values with Lease modification Event",
+    "Jira_ID": "NFS-7858",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7871": {
+    "TC_Title": "Verify GL Balance Report with Calendar Type as Fiscal Variant filter selected",
+    "Jira_ID": "NFS-7871",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7880": {
+    "TC_Title": "Verify that GL Balance Report should show correct values with Casualty Termination Event",
+    "Jira_ID": "NFS-7880",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-7884": {
+    "TC_Title": "Test Audit Log feature for FOS - Configurations",
+    "Jira_ID": "NFS-7884",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4"
+  },
+  "NFS-8057": {
+    "TC_Title": "Mass Workflow Transition: Verify that user should be able to cancel the job task",
+    "Jira_ID": "NFS-8057",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8067": {
+    "TC_Title": "Verify downloaded report is showing correct data when Asset Impairment Gain/Loss event is applied",
+    "Jira_ID": "NFS-8067",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8089": {
+    "TC_Title": "Verify that user is able to Schedule Job for Hourly/Daily/Weekly and Monthly",
+    "Jira_ID": "NFS-8089",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8093": {
+    "TC_Title": "Verify that user is able to Delete and Enable/Disable Schedule Job",
+    "Jira_ID": "NFS-8093",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8118": {
+    "TC_Title": "user is able to Schedule Job for Hourly/Daily/Weekly and Monthly",
+    "Jira_ID": "NFS-8118",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8120": {
+    "TC_Title": "Verify that user is able to Delete and Enable/Disable Schedule Job",
+    "Jira_ID": "NFS-8120",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8126": {
+    "TC_Title": "Verify that user is able to Schedule Job for Hourly/Daily/Weekly and Monthly",
+    "Jira_ID": "NFS-8126",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8127": {
+    "TC_Title": "Verify that user is able to Delete and Enable/Disable Schedule Job",
+    "Jira_ID": "NFS-8127",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8132": {
+    "TC_Title": "Verify that user is able to edit and delete Activity Analysis & Periodic Postings Report Schedule Job",
+    "Jira_ID": "NFS-8132",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8150": {
+    "TC_Title": "Notifications tab should be present at Contract and user should be able to subscribe to notification topics.",
+    "Jira_ID": "NFS-8150",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8246": {
+    "TC_Title": "Verify that user is able to Schedule Job for Hourly/Daily/Weekly and Monthly",
+    "Jira_ID": "NFS-8246",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8247": {
+    "TC_Title": "Verify that user is able to Delete and Enable/Disable Schedule Job",
+    "Jira_ID": "NFS-8247",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8249": {
+    "TC_Title": "Verify that user is able to edit and delete CTR & GL Schedule Job",
+    "Jira_ID": "NFS-8249",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9016": {
+    "TC_Title": "Revert AG - Validation - Limitations and UI Options.",
+    "Jira_ID": "NFS-9016",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9022": {
+    "TC_Title": "Revert AG - Scenario 1 - AG Activation with no Event & no Charges",
+    "Jira_ID": "NFS-9022",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9023": {
+    "TC_Title": "Revert AG - Scenario 2 - AG Activation with no Event & Charges",
+    "Jira_ID": "NFS-9023",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9024": {
+    "TC_Title": "Revert AG - Scenario 3 - AG Activation with Event & No Charges",
+    "Jira_ID": "NFS-9024",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9025": {
+    "TC_Title": "Revert AG - Scenario 3 - AG Activation with Event & No Charges",
+    "Jira_ID": "NFS-9025",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9026": {
+    "TC_Title": "Revert AG - Scenario 3 - AG Activation with Event & No Charges",
+    "Jira_ID": "NFS-9026",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9467": {
+    "TC_Title": "Event Revert - Verify when an AG is reverted open drafts should be discarded.",
+    "Jira_ID": "NFS-9467",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9495": {
+    "TC_Title": "Verify that Terms & Conditions Reassessment event should be enabled.",
+    "Jira_ID": "NFS-9495",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9500": {
+    "TC_Title": "Verify that user should be able to export \"Import Reports\" also verify the information and errors.",
+    "Jira_ID": "NFS-9500",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9519": {
+    "TC_Title": "Verify user will not be able to run any mass job on reverted AG.",
+    "Jira_ID": "NFS-9519",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9520": {
+    "TC_Title": "Short Term, Verify that Indexation event should be enabled only for UF/CLP Scenario.",
+    "Jira_ID": "NFS-9520",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9730": {
+    "TC_Title": "Verify user is able to split the AG at LC and AG level.",
+    "Jira_ID": "NFS-9730",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9771": {
+    "TC_Title": "Verify the split AG should contain all the revisions of the original AG.",
+    "Jira_ID": "NFS-9771",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9803": {
+    "TC_Title": "Verify the events applied on non-lease service contractsto refine the report generation",
+    "Jira_ID": "NFS-9803",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R1"
+  },
+  "NFS-2879": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-01",
+    "Jira_ID": "NFS-2879",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8896": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-02",
+    "Jira_ID": "NFS-8896",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8479": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-03",
+    "Jira_ID": "NFS-8479",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-8480": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-04",
+    "Jira_ID": "NFS-8480",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9459": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-05",
+    "Jira_ID": "NFS-9459",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-15959": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-06",
+    "Jira_ID": "NFS-15959",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-2140": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-07",
+    "Jira_ID": "NFS-2140",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-9458": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-08",
+    "Jira_ID": "NFS-9458",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11325": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-09",
+    "Jira_ID": "NFS-11325",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "NFS-11667": {
+    "TC_Title": "Verify Report for Disclosure Test Case TC-DR-10",
+    "Jira_ID": "NFS-11667",
+    "TC_Category": "Regression",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+  },
+  "TC-161": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-161",
+    "Jira_ID": "NFS-15244",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-163": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-163",
+    "Jira_ID": "NFS-15246",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "Nakisa 2024.R3"
+  },
+  "TC-165": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-165",
+    "Jira_ID": "NFS-16008",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R2"
+  },
+  "TC-168": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-168",
+    "Jira_ID": "NFS-17189",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R3"
+  },
+  "TC-187": {
+    "TC_Title": "Verify Schedules for Accounting Test Case TC-187",
+    "Jira_ID": "NFS-16710",
+    "TC_Category": "Engine/Core/Accounting",
+    "TC_Customers": "None",
+    "TC_FixVersion": "N2025.R3"
+  },
+  "NFS-9579": {
+  "TC_Title": "NLA & SPB: Copy and Cancellation of Batch & Report Jobs/Tasks",
+  "Jira_ID": "NFS-9579",
+  "TC_Category": "Regression",
+  "TC_Customers": "None",
+  "TC_FixVersion": "Nakisa 2023.R4 & Earlier"
+}
+}

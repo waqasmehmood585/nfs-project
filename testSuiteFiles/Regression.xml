@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite  name="Regression Test Cases" thread-count="2" parallel="classes" >
+    <suite-files>
+        <suite-file path="suiteFiles/Coverage.xml"></suite-file>
+        <suite-file path="suiteFiles/Export.xml"></suite-file>
+        <suite-file path="suiteFiles/AAR.xml"></suite-file>
+        <suite-file path="suiteFiles/SAPPosting.xml"></suite-file>
+        <suite-file path="suiteFiles/CTR.xml"></suite-file>
+        <suite-file path="suiteFiles/CoreFunctionality.xml"></suite-file>
+        <suite-file path="suiteFiles/Import.xml"></suite-file>
+        <suite-file path="suiteFiles/GL.xml"></suite-file>
+        <suite-file path="suiteFiles/PPSR.xml"></suite-file>
+        <suite-file path="suiteFiles/CashFlow.xml"></suite-file>
+        <suite-file path="suiteFiles/ContractExpiration.xml"></suite-file>
+     </suite-files>
+ </suite> <!-- Suite -->

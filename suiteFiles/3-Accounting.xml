@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite  name="3-Accounting" thread-count="1" parallel="tests" data-provider-thread-count="3">
+    <test name="3-Accounting" preserve-order="true">
+        <classes>
+            <class name="com.nakisa.nlaAutomation.runnerFiles.TestRunner_3_Accounting"/>
+        </classes>
+    </test>
+</suite> <!-- Suite -->

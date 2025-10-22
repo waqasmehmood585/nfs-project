@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+        <!-- report theme -->
+        <!-- standard, dark -->
+        <theme>standard</theme>
+
+        <!-- document encoding -->
+        <!-- defaults to UTF-8 -->
+        <encoding>UTF-8</encoding>
+
+        <!-- protocol for script and stylesheets -->
+        <!-- defaults to https -->
+        <protocol>https</protocol>
+        
+        <!-- title of the document -->
+        <documentTitle>Automation Report</documentTitle>
+
+        <!-- report name - displayed at top-nav -->
+        <reportName> NAKISA Lease Administration 6.0</reportName>
+        
+        <!-- enable or disable timeline on dashboard -->
+        <timelineEnabled>false</timelineEnabled>
+        
+        <!-- location of charts in the test view -->
+        <!-- top, bottom -->
+        <testViewChartLocation>top</testViewChartLocation>
+
+        <!-- custom javascript -->
+        <js>
+            <![CDATA[
+				$(document).ready(function() {
+				
+				
+                });
+            ]]>
+        </js>
+
+        <!-- custom styles -->
+        <css>
+            <![CDATA[
+			.badge-primary{background-color:#009CDE} 
+			.category-container .bg-gray th:nth-child(1){background-color:#dfe3e8}
+			.category-container .bg-gray th:nth-child(2){background-color:#b6dea9} 
+			.category-container .bg-gray th:nth-child(3){background-color:#e8bcbc} 
+			.category-container .bg-gray th:nth-child(4){background-color:#f9e1b7} 
+			.category-container .bg-gray th:nth-child(5){background-color:#b1cff0} 
+			.category-container .bg-gray th:nth-child(6){background-color:#b6dea9} 
+			.sysenv-container .bg-gray th:nth-child(1){background-color:#dfe3e8}
+			.sysenv-container .bg-gray th:nth-child(2){background-color:#dfe3e8} 
+            ]]>
+        </css>
+    </configuration>
+</extentreports>

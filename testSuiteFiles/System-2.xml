@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Waters/UF-CLP/Lessor" parallel="tests">
+    <suite-files>
+        <suite-file path="suiteFiles/Waters.xml"></suite-file>
+        <suite-file path="suiteFiles/UF-CLP.xml"></suite-file>
+        <suite-file path="suiteFiles/LessorAccounting.xml"></suite-file>
+    </suite-files>
+</suite> <!-- Suite -->
