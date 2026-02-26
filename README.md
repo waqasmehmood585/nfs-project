@@ -90,4 +90,35 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+
+## GitHub Copilot Subscription & Trial Guide
+
+### How to Check If You Have a Free Trial or Paid Subscription
+
+1. **Go to GitHub Settings**
+   - Navigate to [https://github.com/settings/copilot](https://github.com/settings/copilot)
+   - Under your Copilot plan details, it will indicate whether you are on a **free trial** or a **paid subscription**.
+   - If you are on a trial, the page will show the trial end date.
+
+2. **Check Your Billing & Payment History**
+   - Navigate to [https://github.com/settings/billing/summary](https://github.com/settings/billing/summary)
+   - Under **Payment information**, you can review your current plan and any charges.
+   - Click **Payment history** to see past receipts and invoices.
+   - If you were charged, a receipt will appear here. If you are on a free trial, there should be no charge listed for Copilot during the trial period.
+
+3. **Review Subscription Emails**
+   - Check the email associated with your GitHub account for a confirmation email from GitHub.
+   - Trial activations and payment receipts are sent to your registered email address.
+
+### What to Do If You Were Charged but Expected a Free Trial
+
+- Visit [https://support.github.com/contact](https://support.github.com/contact) to reach GitHub Support.
+- Select **Billing & payments** as the category and describe the issue.
+- Include your GitHub username and the approximate date of the charge.
+
+### Additional Resources
+
+- [GitHub Copilot subscription documentation](https://docs.github.com/en/copilot/managing-copilot/managing-your-copilot-subscription)
+- [GitHub billing documentation](https://docs.github.com/en/billing/managing-your-github-billing-settings)
+
 "# nfs-project" 
